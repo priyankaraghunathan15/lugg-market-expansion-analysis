@@ -1,0 +1,16 @@
+metro_area_name,population,income,cbsa_code,taskrabbit_active,dolly_active,goshare_active,lugg_active,total_competitors,lugg_status,market_attractiveness,competition_opportunity,expansion_score,estimated_annual_revenue,data_source
+"Poughkeepsie-Newburgh-Middletown, NY Metro Area",697704.0,92870.0,39100.0,0,0,0,0,0,Expansion Target,71.92523364485982,100.0,83.15514018691589,419000.0,uncovered_opportunity
+"Grand Rapids-Kentwood, MI Metro Area",1087068.0,76898.0,24340.0,0,0,0,0,0,Expansion Target,71.53271028037383,100.0,82.9196261682243,652000.0,uncovered_opportunity
+"Madison, WI Metro Area",678995.0,82996.0,31540.0,0,0,0,0,0,Expansion Target,67.62616822429906,100.0,80.57570093457943,407000.0,uncovered_opportunity
+"Riverside-San Bernardino-Ontario, CA Metro Area",4610050.0,81041.0,40140.0,0,0,1,0,1,Expansion Target,84.25233644859813,75.0,80.55140186915887,2766000.0,competitor_mapped
+"Portland-South Portland, ME Metro Area",552916.0,84095.0,38860.0,0,0,0,0,0,Expansion Target,65.69470404984423,100.0,79.41682242990655,332000.0,uncovered_opportunity
+"Urban Honolulu, HI Metro Area",1010100.0,99816.0,46520.0,1,0,0,0,1,Expansion Target,82.1246105919003,75.0,79.27476635514017,606000.0,competitor_mapped
+"Lancaster, PA Metro Area",553202.0,81458.0,29540.0,0,0,0,0,0,Expansion Target,63.60747663551402,100.0,78.16448598130842,332000.0,uncovered_opportunity
+"Manchester-Nashua, NH Metro Area",422733.0,95112.0,31700.0,0,0,0,0,0,Expansion Target,62.442367601246104,100.0,77.46542056074766,254000.0,uncovered_opportunity
+"Anchorage, AK Metro Area",399335.0,93016.0,11260.0,0,0,0,0,0,Expansion Target,61.10280373831776,100.0,76.66168224299065,240000.0,uncovered_opportunity
+"Harrisburg-Carlisle, PA Metro Area",593318.0,76189.0,25420.0,0,0,0,0,0,Expansion Target,59.90031152647975,100.0,75.94018691588785,356000.0,uncovered_opportunity
+"San Juan-Bayamón-Caguas, PR Metro Area",2073546.0,26853.0,41980.0,0,0,0,0,0,Expansion Target,59.79750778816199,100.0,75.8785046728972,1244000.0,uncovered_opportunity
+"Oxnard-Thousand Oaks-Ventura, CA Metro Area",842009.0,102141.0,37100.0,0,0,1,0,1,Expansion Target,75.81931464174455,75.0,75.49158878504673,505000.0,competitor_mapped
+"Greeley, CO Metro Area",331466.0,89182.0,24540.0,0,0,0,0,0,Expansion Target,57.95638629283489,100.0,74.77383177570093,199000.0,uncovered_opportunity
+"Bremerton-Silverdale-Port Orchard, WA Metro Area",275411.0,93675.0,14740.0,0,0,0,0,0,Expansion Target,57.64485981308411,100.0,74.58691588785047,165000.0,uncovered_opportunity
+"Fayetteville-Springdale-Rogers, AR Metro Area",550596.0,73316.0,22220.0,0,0,0,0,0,Expansion Target,55.570093457943926,100.0,73.34205607476636,330000.0,uncovered_opportunity

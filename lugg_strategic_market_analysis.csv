@@ -1,0 +1,322 @@
+metro_area_name,population,income,cbsa_code,taskrabbit_active,dolly_active,goshare_active,lugg_active,total_competitors,lugg_status,market_attractiveness,competition_opportunity,expansion_score,estimated_annual_revenue,data_source
+"Poughkeepsie-Newburgh-Middletown, NY Metro Area",697704.0,92870.0,39100.0,0,0,0,0,0,Expansion Target,71.92523364485982,100.0,83.15514018691589,419000.0,uncovered_opportunity
+"Grand Rapids-Kentwood, MI Metro Area",1087068.0,76898.0,24340.0,0,0,0,0,0,Expansion Target,71.53271028037383,100.0,82.9196261682243,652000.0,uncovered_opportunity
+"Madison, WI Metro Area",678995.0,82996.0,31540.0,0,0,0,0,0,Expansion Target,67.62616822429906,100.0,80.57570093457943,407000.0,uncovered_opportunity
+"Riverside-San Bernardino-Ontario, CA Metro Area",4610050.0,81041.0,40140.0,0,0,1,0,1,Expansion Target,84.25233644859813,75.0,80.55140186915887,2766000.0,competitor_mapped
+"Portland-South Portland, ME Metro Area",552916.0,84095.0,38860.0,0,0,0,0,0,Expansion Target,65.69470404984423,100.0,79.41682242990655,332000.0,uncovered_opportunity
+"Urban Honolulu, HI Metro Area",1010100.0,99816.0,46520.0,1,0,0,0,1,Expansion Target,82.1246105919003,75.0,79.27476635514017,606000.0,competitor_mapped
+"Lancaster, PA Metro Area",553202.0,81458.0,29540.0,0,0,0,0,0,Expansion Target,63.60747663551402,100.0,78.16448598130842,332000.0,uncovered_opportunity
+"Manchester-Nashua, NH Metro Area",422733.0,95112.0,31700.0,0,0,0,0,0,Expansion Target,62.442367601246104,100.0,77.46542056074766,254000.0,uncovered_opportunity
+"Anchorage, AK Metro Area",399335.0,93016.0,11260.0,0,0,0,0,0,Expansion Target,61.10280373831776,100.0,76.66168224299065,240000.0,uncovered_opportunity
+"Harrisburg-Carlisle, PA Metro Area",593318.0,76189.0,25420.0,0,0,0,0,0,Expansion Target,59.90031152647975,100.0,75.94018691588785,356000.0,uncovered_opportunity
+"San Juan-Bayamón-Caguas, PR Metro Area",2073546.0,26853.0,41980.0,0,0,0,0,0,Expansion Target,59.79750778816199,100.0,75.8785046728972,1244000.0,uncovered_opportunity
+"Oxnard-Thousand Oaks-Ventura, CA Metro Area",842009.0,102141.0,37100.0,0,0,1,0,1,Expansion Target,75.81931464174455,75.0,75.49158878504673,505000.0,competitor_mapped
+"Greeley, CO Metro Area",331466.0,89182.0,24540.0,0,0,0,0,0,Expansion Target,57.95638629283489,100.0,74.77383177570093,199000.0,uncovered_opportunity
+"Bremerton-Silverdale-Port Orchard, WA Metro Area",275411.0,93675.0,14740.0,0,0,0,0,0,Expansion Target,57.64485981308411,100.0,74.58691588785047,165000.0,uncovered_opportunity
+"Fayetteville-Springdale-Rogers, AR Metro Area",550596.0,73316.0,22220.0,0,0,0,0,0,Expansion Target,55.570093457943926,100.0,73.34205607476636,330000.0,uncovered_opportunity
+"York-Hanover, PA Metro Area",457051.0,79183.0,49620.0,0,0,0,0,0,Expansion Target,55.495327102803735,100.0,73.29719626168225,274000.0,uncovered_opportunity
+"Albany-Schenectady-Troy, NY Metro Area",901729.0,83360.0,10580.0,0,0,1,0,1,Expansion Target,71.45794392523365,75.0,72.8747663551402,541000.0,competitor_mapped
+"Kennewick-Richland, WA Metro Area",304252.0,82146.0,28420.0,0,0,0,0,0,Expansion Target,54.18691588785046,100.0,72.51214953271028,183000.0,uncovered_opportunity
+"Palm Bay-Melbourne-Titusville, FL Metro Area",610723.0,71308.0,37340.0,0,0,0,0,0,Expansion Target,53.794392523364486,100.0,72.2766355140187,366000.0,uncovered_opportunity
+"Norwich-New London, CT Metro Area",268448.0,84755.0,35980.0,0,0,0,0,0,Expansion Target,53.719626168224295,100.0,72.23177570093458,161000.0,uncovered_opportunity
+"Stockton, CA Metro Area",779445.0,82837.0,44700.0,0,0,1,0,1,Expansion Target,69.30841121495327,75.0,71.58504672897196,468000.0,competitor_mapped
+"Omaha-Council Bluffs, NE-IA Metro Area",966688.0,79634.0,36540.0,1,0,0,0,1,Expansion Target,69.05919003115265,75.0,71.43551401869159,580000.0,competitor_mapped
+"Syracuse, NY Metro Area",658694.0,70096.0,45060.0,0,0,0,0,0,Expansion Target,51.95638629283489,100.0,71.17383177570093,395000.0,uncovered_opportunity
+"Colorado Springs, CO Metro Area",755081.0,82334.0,17820.0,0,0,1,0,1,Expansion Target,68.40498442367601,75.0,71.0429906542056,453000.0,competitor_mapped
+"Reading, PA Metro Area",428483.0,74617.0,39740.0,0,0,0,0,0,Expansion Target,50.54205607476635,100.0,70.32523364485981,257000.0,uncovered_opportunity
+"Spokane-Spokane Valley, WA Metro Area",585485.0,69752.0,44060.0,0,0,0,0,0,Expansion Target,49.96261682242991,100.0,69.97757009345794,351000.0,uncovered_opportunity
+"Allentown-Bethlehem-Easton, PA-NJ Metro Area",863166.0,78597.0,10900.0,0,0,1,0,1,Expansion Target,66.50467289719626,75.0,69.90280373831774,518000.0,competitor_mapped
+"Des Moines-West Des Moines, IA Metro Area",711490.0,81103.0,19780.0,1,0,0,0,1,Expansion Target,66.4423676012461,75.0,69.86542056074765,427000.0,competitor_mapped
+"Sioux Falls, SD Metro Area",277944.0,78552.0,43620.0,0,0,0,0,0,Expansion Target,49.638629283489095,100.0,69.78317757009346,167000.0,uncovered_opportunity
+"Burlington-South Burlington, VT Metro Area",225745.0,86183.0,15540.0,0,0,0,0,0,Expansion Target,48.84735202492212,100.0,69.30841121495327,135000.0,uncovered_opportunity
+"Torrington, CT Micro Area",185765.0,89394.0,45860.0,0,0,0,0,0,Expansion Target,48.41121495327103,100.0,69.04672897196261,111000.0,uncovered_opportunity
+"Deltona-Daytona Beach-Ormond Beach, FL Metro Area",676035.0,64197.0,19660.0,0,0,0,0,0,Expansion Target,48.280373831775705,100.0,68.96822429906543,406000.0,uncovered_opportunity
+"Lakeland-Winter Haven, FL Metro Area",736229.0,60901.0,29460.0,0,0,0,0,0,Expansion Target,48.280373831775705,100.0,68.96822429906543,442000.0,uncovered_opportunity
+"McAllen-Edinburg-Mission, TX Metro Area",873167.0,49371.0,32580.0,0,0,0,0,0,Expansion Target,48.155763239875384,100.0,68.89345794392523,524000.0,uncovered_opportunity
+"Rochester, NY Metro Area",1086859.0,71349.0,40380.0,0,0,1,0,1,Expansion Target,64.74143302180684,75.0,68.8448598130841,652000.0,competitor_mapped
+"Lansing-East Lansing, MI Metro Area",538985.0,68270.0,29620.0,0,0,0,0,0,Expansion Target,47.968847352024916,100.0,68.78130841121495,323000.0,uncovered_opportunity
+"Boise City, ID Metro Area",771602.0,78138.0,14260.0,0,0,1,0,1,Expansion Target,64.54205607476635,75.0,68.7252336448598,463000.0,competitor_mapped
+"Kahului-Wailuku-Lahaina, HI Metro Area",164765.0,95379.0,27980.0,0,0,0,0,0,Expansion Target,47.570093457943926,100.0,68.54205607476635,99000.0,uncovered_opportunity
+"Lexington-Fayette, KY Metro Area",515954.0,68089.0,30460.0,0,0,0,0,0,Expansion Target,47.56386292834891,100.0,68.53831775700934,310000.0,uncovered_opportunity
+"Vallejo, CA Metro Area",450995.0,97037.0,46700.0,0,0,1,0,1,Expansion Target,63.93769470404985,75.0,68.36261682242991,271000.0,competitor_mapped
+"Green Bay, WI Metro Area",328011.0,74208.0,24580.0,0,0,0,0,0,Expansion Target,47.115264797507784,100.0,68.26915887850467,197000.0,uncovered_opportunity
+"Augusta-Richmond County, GA-SC Metro Area",612898.0,62941.0,12260.0,0,0,0,0,0,Expansion Target,47.034267912772584,100.0,68.22056074766355,368000.0,uncovered_opportunity
+"Salem, OR Metro Area",433415.0,72154.0,41420.0,0,0,0,0,0,Expansion Target,46.928348909657316,100.0,68.15700934579439,260000.0,uncovered_opportunity
+"Cedar Rapids, IA Metro Area",275693.0,75477.0,16300.0,0,0,0,0,0,Expansion Target,46.772585669781925,100.0,68.06355140186915,165000.0,uncovered_opportunity
+"Midland, TX Metro Area",174621.0,89345.0,33260.0,0,0,0,0,0,Expansion Target,46.66666666666667,100.0,68.0,105000.0,uncovered_opportunity
+"North Port-Sarasota-Bradenton, FL Metro Area",844461.0,74469.0,35840.0,0,0,1,0,1,Expansion Target,62.704049844236756,75.0,67.62242990654205,507000.0,competitor_mapped
+"Scranton--Wilkes-Barre, PA Metro Area",567287.0,62318.0,42540.0,0,0,0,0,0,Expansion Target,45.8816199376947,100.0,67.52897196261682,340000.0,uncovered_opportunity
+"Napa, CA Metro Area",137384.0,105809.0,34900.0,0,0,0,0,0,Expansion Target,45.82554517133956,100.0,67.49532710280374,82000.0,uncovered_opportunity
+"Appleton, WI Metro Area",242972.0,79958.0,11540.0,0,0,0,0,0,Expansion Target,45.70093457943925,100.0,67.42056074766354,146000.0,uncovered_opportunity
+"Santa Maria-Santa Barbara, CA Metro Area",445213.0,92332.0,42200.0,0,0,1,0,1,Expansion Target,62.286604361370706,75.0,67.37196261682243,267000.0,competitor_mapped
+"Bend, OR Metro Area",199352.0,82042.0,13460.0,0,0,0,0,0,Expansion Target,45.32710280373831,100.0,67.19626168224299,120000.0,uncovered_opportunity
+"Charlotte-Concord-Gastonia, NC-SC Metro Area",2668688.0,76177.0,16740.0,0,1,1,0,2,Expansion Target,78.48909657320873,50.0,67.09345794392524,1601000.0,competitor_mapped
+"Hagerstown-Martinsburg, MD-WV Metro Area",295165.0,72751.0,25180.0,0,0,0,0,0,Expansion Target,44.311526479750775,100.0,66.58691588785047,177000.0,uncovered_opportunity
+"Birmingham-Hoover, AL Metro Area",1114368.0,68329.0,13820.0,0,0,1,0,1,Expansion Target,60.940809968847354,75.0,66.56448598130841,669000.0,competitor_mapped
+"Columbus, OH Metro Area",2137223.0,76541.0,18140.0,0,1,1,0,2,Expansion Target,77.46105919003115,50.0,66.47663551401868,1282000.0,competitor_mapped
+"Savannah, GA Metro Area",406575.0,70705.0,42340.0,0,0,0,0,0,Expansion Target,44.0,100.0,66.4,244000.0,uncovered_opportunity
+"Fargo, ND-MN Metro Area",251635.0,73641.0,22020.0,0,0,0,0,0,Expansion Target,43.96884735202492,100.0,66.38130841121495,151000.0,uncovered_opportunity
+"California-Lexington Park, MD Metro Area",113814.0,113668.0,15680.0,0,0,0,0,0,Expansion Target,43.707165109034264,100.0,66.22429906542055,68000.0,uncovered_opportunity
+"Buffalo-Cheektowaga, NY Metro Area",1163462.0,67638.0,15380.0,0,0,1,0,1,Expansion Target,60.348909657320874,75.0,66.20934579439253,698000.0,competitor_mapped
+"Atlantic City-Hammonton, NJ Metro Area",274339.0,73113.0,12100.0,0,0,0,0,0,Expansion Target,43.376947040498436,100.0,66.02616822429906,165000.0,uncovered_opportunity
+"Concord, NH Micro Area",153918.0,88806.0,18180.0,0,0,0,0,0,Expansion Target,43.14641744548287,100.0,65.88785046728972,92000.0,uncovered_opportunity
+"Bellingham, WA Metro Area",226523.0,77581.0,13380.0,0,0,0,0,0,Expansion Target,43.084112149532714,100.0,65.85046728971963,136000.0,uncovered_opportunity
+"Fayetteville, NC Metro Area",522537.0,57488.0,22180.0,0,0,0,0,0,Expansion Target,42.48598130841122,100.0,65.49158878504673,314000.0,uncovered_opportunity
+"Lincoln, NE Metro Area",339707.0,70899.0,30700.0,0,0,0,0,0,Expansion Target,42.41121495327103,100.0,65.44672897196261,204000.0,uncovered_opportunity
+"Youngstown-Warren-Boardman, OH-PA Metro Area",540328.0,54650.0,49660.0,0,0,0,0,0,Expansion Target,42.33021806853582,100.0,65.39813084112149,324000.0,uncovered_opportunity
+"Detroit-Warren-Dearborn, MI Metro Area",4375604.0,72456.0,19820.0,0,1,1,0,2,Expansion Target,75.21806853582555,50.0,65.13084112149534,2625000.0,competitor_mapped
+"Tulsa, OK Metro Area",1017724.0,65784.0,46140.0,0,0,1,0,1,Expansion Target,58.54205607476636,75.0,65.1252336448598,611000.0,competitor_mapped
+"Reno, NV Metro Area",490769.0,81576.0,39900.0,0,0,1,0,1,Expansion Target,58.0809968847352,75.0,64.84859813084111,294000.0,competitor_mapped
+"East Stroudsburg, PA Metro Area",168128.0,80656.0,20700.0,0,0,0,0,0,Expansion Target,40.93457943925233,100.0,64.5607476635514,101000.0,uncovered_opportunity
+"Modesto, CA Metro Area",552063.0,74872.0,33700.0,0,0,1,0,1,Expansion Target,57.59501557632399,75.0,64.5570093457944,331000.0,competitor_mapped
+"Virginia Beach-Norfolk-Newport News, VA-NC Metro Area",1798025.0,77082.0,47260.0,1,0,1,0,2,Expansion Target,73.99376947040498,50.0,64.396261682243,1079000.0,competitor_mapped
+"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",3678328.0,94673.0,33460.0,1,1,1,0,3,Expansion Target,90.32710280373831,25.0,64.19626168224298,2207000.0,competitor_mapped
+"San Luis Obispo-Paso Robles, CA Metro Area",281712.0,90158.0,42020.0,0,0,1,0,1,Expansion Target,56.86604361370716,75.0,64.1196261682243,169000.0,competitor_mapped
+"Kingston, NY Metro Area",182153.0,77197.0,28740.0,0,0,0,0,0,Expansion Target,39.65732087227414,100.0,63.79439252336448,109000.0,uncovered_opportunity
+"Lebanon, NH-VT Micro Area",221463.0,74152.0,30100.0,0,0,0,0,0,Expansion Target,39.09657320872274,100.0,63.45794392523364,133000.0,uncovered_opportunity
+"Huntsville, AL Metro Area",493980.0,78521.0,26620.0,0,0,1,0,1,Expansion Target,55.61993769470404,75.0,63.37196261682242,296000.0,competitor_mapped
+"Naples-Marco Island, FL Metro Area",380221.0,82011.0,34940.0,0,0,1,0,1,Expansion Target,55.52647975077881,75.0,63.315887850467284,228000.0,competitor_mapped
+"Gainesville, GA Metro Area",204953.0,74153.0,23580.0,0,0,0,0,0,Expansion Target,38.56697819314641,100.0,63.140186915887845,123000.0,uncovered_opportunity
+"Hilo, HI Micro Area",202163.0,74238.0,25900.0,0,0,0,0,0,Expansion Target,38.535825545171335,100.0,63.1214953271028,121000.0,uncovered_opportunity
+"Bismarck, ND Metro Area",133467.0,81846.0,13900.0,0,0,0,0,0,Expansion Target,38.099688473520246,100.0,62.85981308411215,80000.0,uncovered_opportunity
+"Mount Vernon-Anacortes, WA Metro Area",129480.0,82029.0,34580.0,0,0,0,0,0,Expansion Target,38.06853582554517,100.0,62.8411214953271,78000.0,uncovered_opportunity
+"Bozeman, MT Micro Area",119685.0,83434.0,14580.0,0,0,0,0,0,Expansion Target,37.943925233644855,100.0,62.76635514018692,72000.0,uncovered_opportunity
+"Baton Rouge, LA Metro Area",869755.0,67979.0,12940.0,0,0,1,0,1,Expansion Target,54.168224299065415,75.0,62.500934579439246,522000.0,competitor_mapped
+"Warner Robins, GA Metro Area",192171.0,73788.0,47580.0,0,0,0,0,0,Expansion Target,37.35202492211838,100.0,62.41121495327103,115000.0,uncovered_opportunity
+"Winchester, VA-WV Metro Area",143385.0,79416.0,49020.0,0,0,0,0,0,Expansion Target,37.28971962616822,100.0,62.373831775700936,86000.0,uncovered_opportunity
+"Greenville-Anderson, SC Metro Area",931405.0,66226.0,24860.0,0,0,1,0,1,Expansion Target,53.88785046728972,75.0,62.33271028037383,559000.0,competitor_mapped
+"Knoxville, TN Metro Area",884359.0,66715.0,28940.0,0,0,1,0,1,Expansion Target,53.545171339563865,75.0,62.12710280373832,531000.0,competitor_mapped
+"Bloomington, IL Metro Area",171284.0,75356.0,14010.0,0,0,0,0,0,Expansion Target,36.7601246105919,100.0,62.05607476635514,103000.0,uncovered_opportunity
+"Cape Coral-Fort Myers, FL Metro Area",772902.0,69368.0,15980.0,0,0,1,0,1,Expansion Target,53.202492211838006,75.0,61.921495327102804,464000.0,competitor_mapped
+"Jacksonville, FL Metro Area",1613587.0,73194.0,27260.0,1,0,1,0,2,Expansion Target,69.4766355140187,50.0,61.685981308411215,968000.0,competitor_mapped
+"Albuquerque, NM Metro Area",915968.0,63971.0,10740.0,0,0,1,0,1,Expansion Target,52.704049844236756,75.0,61.62242990654205,550000.0,competitor_mapped
+"Bakersfield, CA Metro Area",906883.0,63883.0,12540.0,0,0,1,0,1,Expansion Target,52.454828660436135,75.0,61.472897196261684,544000.0,competitor_mapped
+"Springfield, IL Metro Area",208406.0,72445.0,44100.0,0,0,0,0,0,Expansion Target,35.73208722741433,100.0,61.439252336448604,125000.0,uncovered_opportunity
+"Dayton-Kettering, OH Metro Area",812506.0,67088.0,19430.0,0,0,1,0,1,Expansion Target,52.33021806853583,75.0,61.3981308411215,488000.0,competitor_mapped
+"Racine, WI Metro Area",197068.0,72658.0,39540.0,0,0,0,0,0,Expansion Target,35.45171339563863,100.0,61.271028037383175,118000.0,uncovered_opportunity
+"Akron, OH Metro Area",700578.0,68647.0,10420.0,0,0,1,0,1,Expansion Target,51.98753894080997,75.0,61.19252336448598,420000.0,competitor_mapped
+"Glenwood Springs, CO Micro Area",79008.0,86831.0,24060.0,0,0,0,0,0,Expansion Target,35.29595015576324,100.0,61.177570093457945,47000.0,uncovered_opportunity
+"Edwards, CO Micro Area",55650.0,98887.0,20780.0,0,0,0,0,0,Expansion Target,35.26479750778816,100.0,61.1588785046729,33000.0,uncovered_opportunity
+"Kapaa, HI Micro Area",73511.0,88869.0,28180.0,0,0,0,0,0,Expansion Target,34.98442367601246,100.0,60.99065420560748,44000.0,uncovered_opportunity
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",3194310.0,67197.0,45300.0,0,1,1,0,2,Expansion Target,68.14641744548287,50.0,60.88785046728972,1917000.0,competitor_mapped
+"Oak Harbor, WA Micro Area",86510.0,82850.0,36020.0,0,0,0,0,0,Expansion Target,34.76635514018692,100.0,60.85981308411215,52000.0,uncovered_opportunity
+"Billings, MT Metro Area",185147.0,72377.0,13740.0,0,0,0,0,0,Expansion Target,34.23676012461059,100.0,60.54205607476635,111000.0,uncovered_opportunity
+"Columbia, SC Metro Area",831913.0,63471.0,17900.0,0,0,1,0,1,Expansion Target,50.80373831775701,75.0,60.4822429906542,499000.0,competitor_mapped
+"Fairbanks, AK Metro Area",96299.0,81655.0,21820.0,0,0,0,0,0,Expansion Target,34.0809968847352,100.0,60.44859813084112,58000.0,uncovered_opportunity
+"Iowa City, IA Metro Area",175894.0,72680.0,26980.0,0,0,0,0,0,Expansion Target,33.83177570093458,100.0,60.29906542056075,106000.0,uncovered_opportunity
+"St. George, UT Metro Area",183297.0,71976.0,41100.0,0,0,0,0,0,Expansion Target,33.8006230529595,100.0,60.280373831775705,110000.0,uncovered_opportunity
+"Gettysburg, PA Metro Area",104604.0,78975.0,23900.0,0,0,0,0,0,Expansion Target,33.23987538940809,100.0,59.943925233644855,63000.0,uncovered_opportunity
+"Truckee-Grass Valley, CA Micro Area",102322.0,79395.0,46020.0,0,0,0,0,0,Expansion Target,33.14641744548287,100.0,59.887850467289724,61000.0,uncovered_opportunity
+"Idaho Falls, ID Metro Area",158478.0,73337.0,26820.0,0,0,0,0,0,Expansion Target,33.021806853582554,100.0,59.81308411214953,95000.0,uncovered_opportunity
+"Gillette, WY Micro Area",60985.0,88151.0,23940.0,0,0,0,0,0,Expansion Target,32.77258566978193,100.0,59.66355140186916,37000.0,uncovered_opportunity
+"Rochester, MN Metro Area",225911.0,86788.0,40340.0,0,0,1,0,1,Expansion Target,49.37694704049844,75.0,59.626168224299064,136000.0,competitor_mapped
+"Traverse City, MI Micro Area",153733.0,73845.0,45900.0,0,0,0,0,0,Expansion Target,32.61682242990654,100.0,59.570093457943926,92000.0,uncovered_opportunity
+"Jefferson, GA Micro Area",77033.0,82056.0,27600.0,0,0,0,0,0,Expansion Target,32.492211838006234,100.0,59.49532710280374,46000.0,uncovered_opportunity
+"Little Rock-North Little Rock-Conway, AR Metro Area",749290.0,62664.0,30780.0,0,0,1,0,1,Expansion Target,49.09034267912773,75.0,59.45420560747664,450000.0,competitor_mapped
+"Jackson, WY-ID Micro Area",35159.0,102435.0,27220.0,0,0,0,0,0,Expansion Target,32.398753894081,100.0,59.4392523364486,21000.0,uncovered_opportunity
+"Coeur d'Alene, ID Metro Area",173396.0,71949.0,17660.0,0,0,0,0,0,Expansion Target,32.30529595015577,100.0,59.38317757009346,104000.0,uncovered_opportunity
+"Wichita, KS Metro Area",646794.0,66643.0,48620.0,0,0,1,0,1,Expansion Target,48.93457943925233,75.0,59.36074766355139,388000.0,competitor_mapped
+"Raleigh-Cary, NC Metro Area",1420825.0,91818.0,39580.0,1,1,1,0,3,Expansion Target,82.18691588785046,25.0,59.31214953271027,852000.0,competitor_mapped
+"Charlottesville, VA Metro Area",221648.0,86188.0,16820.0,0,0,1,0,1,Expansion Target,48.78504672897196,75.0,59.271028037383175,133000.0,competitor_mapped
+"Elko, NV Micro Area",55222.0,87631.0,21220.0,0,0,0,0,0,Expansion Target,31.744548286604363,100.0,59.04672897196262,33000.0,uncovered_opportunity
+"Pinehurst-Southern Pines, NC Micro Area",100759.0,77981.0,38240.0,0,0,0,0,0,Expansion Target,31.495327102803735,100.0,58.89719626168224,60000.0,uncovered_opportunity
+"Pensacola-Ferry Pass-Brent, FL Metro Area",510290.0,69374.0,37860.0,0,0,1,0,1,Expansion Target,48.155763239875384,75.0,58.89345794392523,306000.0,competitor_mapped
+"Greensboro-High Point, NC Metro Area",775169.0,59567.0,24660.0,0,0,1,0,1,Expansion Target,48.124610591900314,75.0,58.87476635514019,465000.0,competitor_mapped
+"Breckenridge, CO Micro Area",30955.0,100611.0,14720.0,0,0,0,0,0,Expansion Target,31.43302180685358,100.0,58.85981308411215,19000.0,uncovered_opportunity
+"Key West, FL Micro Area",82044.0,80111.0,28580.0,0,0,0,0,0,Expansion Target,31.401869158878505,100.0,58.8411214953271,49000.0,uncovered_opportunity
+"Charleston-North Charleston, SC Metro Area",803398.0,77460.0,16700.0,1,0,1,0,2,Expansion Target,64.6043613707165,50.0,58.7626168224299,482000.0,competitor_mapped
+"Holland, MI Micro Area",120189.0,75543.0,26090.0,0,0,0,0,0,Expansion Target,31.183800623052957,100.0,58.71028037383177,72000.0,uncovered_opportunity
+"Salisbury, MD-DE Metro Area",421982.0,72964.0,41540.0,0,0,1,0,1,Expansion Target,47.8006230529595,75.0,58.6803738317757,253000.0,competitor_mapped
+"Wenatchee, WA Metro Area",122265.0,75185.0,48300.0,0,0,0,0,0,Expansion Target,31.028037383177566,100.0,58.616822429906534,73000.0,uncovered_opportunity
+"Wausau-Weston, WI Metro Area",166222.0,71675.0,48140.0,0,0,0,0,0,Expansion Target,30.996884735202492,100.0,58.598130841121495,100000.0,uncovered_opportunity
+"Monroe, MI Metro Area",154823.0,72573.0,33780.0,0,0,0,0,0,Expansion Target,30.8411214953271,100.0,58.50467289719626,93000.0,uncovered_opportunity
+"Juneau, AK Micro Area",32108.0,95711.0,27940.0,0,0,0,0,0,Expansion Target,30.841121495327105,100.0,58.50467289719626,19000.0,uncovered_opportunity
+"Los Alamos, NM Micro Area",19253.0,135801.0,31060.0,0,0,0,0,0,Expansion Target,30.685358255451714,100.0,58.41121495327103,12000.0,uncovered_opportunity
+"Chattanooga, TN-GA Metro Area",564466.0,65387.0,16860.0,0,0,1,0,1,Expansion Target,47.034267912772584,75.0,58.220560747663555,339000.0,competitor_mapped
+"Winston-Salem, NC Metro Area",678243.0,60145.0,49180.0,0,0,1,0,1,Expansion Target,47.0031152647975,75.0,58.201869158878495,407000.0,competitor_mapped
+"Gardnerville Ranchos, NV Micro Area",49476.0,84262.0,23820.0,0,0,0,0,0,Expansion Target,30.155763239875387,100.0,58.09345794392523,30000.0,uncovered_opportunity
+"Cheyenne, WY Metro Area",100316.0,76282.0,16940.0,0,0,0,0,0,Expansion Target,30.12461059190031,100.0,58.074766355140184,60000.0,uncovered_opportunity
+"Chambersburg-Waynesboro, PA Metro Area",156084.0,71808.0,16540.0,0,0,0,0,0,Expansion Target,30.031152647975077,100.0,58.018691588785046,94000.0,uncovered_opportunity
+"Hudson, NY Micro Area",61469.0,81741.0,26460.0,0,0,0,0,0,Expansion Target,29.906542056074763,100.0,57.94392523364486,37000.0,uncovered_opportunity
+"Whitewater, WI Micro Area",105127.0,75172.0,48580.0,0,0,0,0,0,Expansion Target,29.84423676012461,100.0,57.90654205607477,63000.0,uncovered_opportunity
+"Toledo, OH Metro Area",644547.0,61620.0,45780.0,0,0,1,0,1,Expansion Target,46.442367601246104,75.0,57.865420560747665,387000.0,competitor_mapped
+"Kansas City, MO-KS Metro Area",2190750.0,78827.0,28140.0,1,1,1,0,3,Expansion Target,79.76635514018692,25.0,57.85981308411215,1314000.0,competitor_mapped
+"Yuba City, CA Metro Area",180806.0,70176.0,49700.0,0,0,0,0,0,Expansion Target,29.750778816199375,100.0,57.850467289719624,108000.0,uncovered_opportunity
+"Crestview-Fort Walton Beach-Destin, FL Metro Area",288639.0,74279.0,18880.0,0,0,1,0,1,Expansion Target,46.36760124610592,75.0,57.82056074766355,173000.0,competitor_mapped
+"Lebanon, PA Metro Area",143258.0,72532.0,30140.0,0,0,0,0,0,Expansion Target,29.563862928348907,100.0,57.73831775700934,86000.0,uncovered_opportunity
+"Laconia, NH Micro Area",63914.0,80719.0,29060.0,0,0,0,0,0,Expansion Target,29.50155763239875,100.0,57.70093457943925,38000.0,uncovered_opportunity
+"Steamboat Springs, CO Micro Area",24944.0,95144.0,44460.0,0,0,0,0,0,Expansion Target,29.40809968847352,100.0,57.64485981308411,15000.0,uncovered_opportunity
+"Watertown-Fort Atkinson, WI Micro Area",85932.0,77018.0,48020.0,0,0,0,0,0,Expansion Target,29.190031152647972,100.0,57.51401869158878,52000.0,uncovered_opportunity
+"Durango, CO Micro Area",55983.0,81936.0,20420.0,0,0,0,0,0,Expansion Target,29.158878504672895,100.0,57.495327102803735,34000.0,uncovered_opportunity
+"Louisville/Jefferson County, KY-IN Metro Area",1282588.0,69771.0,31140.0,1,0,1,0,2,Expansion Target,62.467289719626166,50.0,57.4803738317757,770000.0,competitor_mapped
+"Janesville-Beloit, WI Metro Area",163817.0,70630.0,27500.0,0,0,0,0,0,Expansion Target,28.909657320872274,100.0,57.34579439252336,98000.0,uncovered_opportunity
+"Williston, ND Micro Area",39076.0,86139.0,48780.0,0,0,0,0,0,Expansion Target,28.81619937694704,100.0,57.28971962616822,23000.0,uncovered_opportunity
+"Logan, UT-ID Metro Area",148804.0,71739.0,30860.0,0,0,0,0,0,Expansion Target,28.753894080996883,100.0,57.25233644859813,89000.0,uncovered_opportunity
+"Minot, ND Micro Area",77140.0,78112.0,33500.0,0,0,0,0,0,Expansion Target,28.722741433021806,100.0,57.23364485981308,46000.0,uncovered_opportunity
+"Odessa, TX Metro Area",162300.0,70566.0,36220.0,0,0,0,0,0,Expansion Target,28.66043613707165,100.0,57.19626168224299,97000.0,uncovered_opportunity
+"Granbury, TX Micro Area",62459.0,80013.0,24180.0,0,0,0,0,0,Expansion Target,28.66043613707165,100.0,57.19626168224299,37000.0,uncovered_opportunity
+"Oklahoma City, OK Metro Area",1428923.0,67963.0,36420.0,1,0,1,0,2,Expansion Target,61.96884735202492,50.0,57.18130841121495,857000.0,competitor_mapped
+"Jackson, MS Metro Area",591397.0,60085.0,27140.0,0,0,1,0,1,Expansion Target,45.258566978193144,75.0,57.15514018691589,355000.0,competitor_mapped
+"Columbus, IN Metro Area",82371.0,76912.0,18020.0,0,0,0,0,0,Expansion Target,28.47352024922118,100.0,57.08411214953271,49000.0,uncovered_opportunity
+"Eau Claire, WI Metro Area",171951.0,70009.0,20740.0,0,0,0,0,0,Expansion Target,28.22429906542056,100.0,56.93457943925233,103000.0,uncovered_opportunity
+"Vineyard Haven, MA Micro Area",20543.0,93225.0,47240.0,0,0,0,0,0,Expansion Target,28.22429906542056,100.0,56.93457943925233,12000.0,uncovered_opportunity
+"St. Louis, MO-IL Metro Area",2813523.0,75316.0,41180.0,1,1,1,0,3,Expansion Target,78.14641744548285,25.0,56.88785046728971,1688000.0,competitor_mapped
+"Oshkosh-Neenah, WI Metro Area",171197.0,70041.0,36780.0,0,0,0,0,0,Expansion Target,28.099688473520246,100.0,56.85981308411215,103000.0,uncovered_opportunity
+"Faribault-Northfield, MN Micro Area",67152.0,78214.0,22060.0,0,0,0,0,0,Expansion Target,27.912772585669778,100.0,56.74766355140187,40000.0,uncovered_opportunity
+"Cincinnati, OH-KY-IN Metro Area",2253528.0,76247.0,17140.0,1,1,1,0,3,Expansion Target,77.58566978193146,25.0,56.55140186915887,1352000.0,competitor_mapped
+"Mankato, MN Metro Area",103402.0,73472.0,31860.0,0,0,0,0,0,Expansion Target,27.507788161993766,100.0,56.50467289719626,62000.0,uncovered_opportunity
+"Santa Fe, NM Metro Area",154481.0,70522.0,42140.0,0,0,0,0,0,Expansion Target,27.227414330218068,100.0,56.33644859813084,93000.0,uncovered_opportunity
+"Keene, NH Micro Area",76610.0,76551.0,28300.0,0,0,0,0,0,Expansion Target,27.196261682242987,100.0,56.31775700934579,46000.0,uncovered_opportunity
+"State College, PA Metro Area",158665.0,70087.0,44300.0,0,0,0,0,0,Expansion Target,27.196261682242987,100.0,56.31775700934579,95000.0,uncovered_opportunity
+"Durham-Chapel Hill, NC Metro Area",648066.0,76040.0,20500.0,1,0,1,0,2,Expansion Target,60.49221183800623,50.0,56.29532710280373,389000.0,competitor_mapped
+"Dubuque, IA Metro Area",98812.0,73495.0,20220.0,0,0,0,0,0,Expansion Target,26.978193146417446,100.0,56.18691588785047,59000.0,uncovered_opportunity
+"Fresno, CA Metro Area",1008280.0,67756.0,23420.0,1,0,1,0,2,Expansion Target,59.53894080996884,50.0,55.72336448598131,605000.0,competitor_mapped
+"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1990873.0,79020.0,34980.0,1,1,1,0,3,Expansion Target,76.17445482866043,25.0,55.704672897196254,1195000.0,competitor_mapped
+"Richmond, VA Metro Area",1316145.0,80877.0,40060.0,1,1,1,0,3,Expansion Target,76.17445482866043,25.0,55.704672897196254,790000.0,competitor_mapped
+"Easton, MD Micro Area",37663.0,81667.0,20660.0,0,0,0,0,0,Expansion Target,26.074766355140184,100.0,55.64485981308411,23000.0,uncovered_opportunity
+"Carlsbad-Artesia, NM Micro Area",61264.0,77458.0,16100.0,0,0,0,0,0,Expansion Target,25.825545171339563,100.0,55.495327102803735,37000.0,uncovered_opportunity
+"Midland, MI Metro Area",83503.0,73643.0,33220.0,0,0,0,0,0,Expansion Target,25.732087227414333,100.0,55.4392523364486,50000.0,uncovered_opportunity
+"Hilton Head Island-Bluffton, SC Metro Area",218515.0,77536.0,25940.0,0,0,1,0,1,Expansion Target,42.21183800623053,75.0,55.32710280373831,131000.0,competitor_mapped
+"Barre, VT Micro Area",59768.0,77278.0,12740.0,0,0,0,0,0,Expansion Target,25.42056074766355,100.0,55.25233644859813,36000.0,uncovered_opportunity
+"Memphis, TN-MS-AR Metro Area",1335804.0,62178.0,32820.0,1,0,1,0,2,Expansion Target,58.666666666666664,50.0,55.199999999999996,801000.0,competitor_mapped
+"Andrews, TX Micro Area",18362.0,86458.0,11380.0,0,0,0,0,0,Expansion Target,25.202492211838006,100.0,55.12149532710281,11000.0,uncovered_opportunity
+"New Orleans-Metairie, LA Metro Area",1264357.0,62748.0,35380.0,1,0,1,0,2,Expansion Target,58.4797507788162,50.0,55.08785046728972,759000.0,competitor_mapped
+"Corvallis, OR Metro Area",95615.0,72882.0,18700.0,0,0,0,0,0,Expansion Target,25.14018691588785,100.0,55.08411214953271,57000.0,uncovered_opportunity
+"Red Wing, MN Micro Area",47697.0,78338.0,39860.0,0,0,0,0,0,Expansion Target,24.890965732087224,100.0,54.93457943925233,29000.0,uncovered_opportunity
+"Pierre, SD Micro Area",20791.0,83641.0,38180.0,0,0,0,0,0,Expansion Target,24.79750778816199,100.0,54.87850467289719,12000.0,uncovered_opportunity
+"Rock Springs, WY Micro Area",42079.0,79375.0,40540.0,0,0,0,0,0,Expansion Target,24.797507788161994,100.0,54.87850467289719,25000.0,uncovered_opportunity
+"Indianapolis-Carmel-Anderson, IN Metro Area",2109957.0,73571.0,26900.0,1,1,1,0,3,Expansion Target,74.50155763239874,25.0,54.70093457943924,1266000.0,competitor_mapped
+"Shelton, WA Micro Area",66053.0,74388.0,43220.0,0,0,0,0,0,Expansion Target,24.392523364485978,100.0,54.63551401869159,40000.0,uncovered_opportunity
+"Owatonna, MN Micro Area",37396.0,79722.0,36940.0,0,0,0,0,0,Expansion Target,24.23676012461059,100.0,54.54205607476635,22000.0,uncovered_opportunity
+"Kill Devil Hills, NC Micro Area",37160.0,79742.0,28620.0,0,0,0,0,0,Expansion Target,24.174454828660433,100.0,54.50467289719626,22000.0,uncovered_opportunity
+"The Villages, FL Metro Area",131832.0,70105.0,45540.0,0,0,0,0,0,Expansion Target,24.112149532710276,100.0,54.467289719626166,79000.0,uncovered_opportunity
+"Longview, WA Metro Area",110621.0,70912.0,31020.0,0,0,0,0,0,Expansion Target,24.11214953271028,100.0,54.467289719626166,66000.0,uncovered_opportunity
+"Myrtle Beach-Conway-North Myrtle Beach, SC-NC Metro Area",496299.0,63296.0,34820.0,0,0,1,0,1,Expansion Target,40.63551401869159,75.0,54.38130841121495,298000.0,competitor_mapped
+"Visalia, CA Metro Area",473446.0,64474.0,47300.0,0,0,1,0,1,Expansion Target,40.51090342679127,75.0,54.30654205607476,284000.0,competitor_mapped
+"Peoria, IL Metro Area",401702.0,67718.0,37900.0,0,0,1,0,1,Expansion Target,40.386292834890966,75.0,54.23177570093458,241000.0,competitor_mapped
+"Ann Arbor, MI Metro Area",370231.0,84245.0,11460.0,1,0,1,0,2,Expansion Target,56.95950155763239,50.0,54.17570093457943,222000.0,competitor_mapped
+"Hailey, ID Micro Area",25381.0,81271.0,25200.0,0,0,0,0,0,Expansion Target,23.27102803738318,100.0,53.96261682242991,15000.0,uncovered_opportunity
+"Beaver Dam, WI Micro Area",89032.0,71747.0,13180.0,0,0,0,0,0,Expansion Target,23.2398753894081,100.0,53.94392523364486,53000.0,uncovered_opportunity
+"Rochelle, IL Micro Area",51672.0,75782.0,40300.0,0,0,0,0,0,Expansion Target,23.115264797507788,100.0,53.86915887850467,31000.0,uncovered_opportunity
+"Helena, MT Micro Area",83760.0,72168.0,25740.0,0,0,0,0,0,Expansion Target,23.084112149532707,100.0,53.850467289719624,50000.0,uncovered_opportunity
+"Ketchikan, AK Micro Area",13910.0,82763.0,28540.0,0,0,0,0,0,Expansion Target,23.052959501557634,100.0,53.83177570093458,8000.0,uncovered_opportunity
+"Wooster, OH Micro Area",116680.0,70320.0,49300.0,0,0,0,0,0,Expansion Target,23.021806853582554,100.0,53.81308411214953,70000.0,uncovered_opportunity
+"Orlando-Kissimmee-Sanford, FL Metro Area",2679298.0,71551.0,36740.0,1,1,1,0,3,Expansion Target,72.75700934579439,25.0,53.654205607476634,1608000.0,competitor_mapped
+"Dickinson, ND Micro Area",33828.0,78608.0,19860.0,0,0,0,0,0,Expansion Target,22.46105919003115,100.0,53.47663551401869,20000.0,uncovered_opportunity
+"Fond du Lac, WI Metro Area",104027.0,70368.0,22540.0,0,0,0,0,0,Expansion Target,22.336448598130836,100.0,53.4018691588785,62000.0,uncovered_opportunity
+"Hood River, OR Micro Area",23965.0,80254.0,26220.0,0,0,0,0,0,Expansion Target,22.149532710280372,100.0,53.28971962616822,14000.0,uncovered_opportunity
+"Baraboo, WI Micro Area",65664.0,72930.0,12660.0,0,0,0,0,0,Expansion Target,21.806853582554517,100.0,53.08411214953271,39000.0,uncovered_opportunity
+"Wapakoneta, OH Micro Area",46263.0,75231.0,47540.0,0,0,0,0,0,Expansion Target,21.775700934579437,100.0,53.06542056074766,28000.0,uncovered_opportunity
+"Pittsburgh, PA Metro Area",2365501.0,71283.0,38300.0,1,1,1,0,3,Expansion Target,71.51090342679129,25.0,52.90654205607477,1419000.0,competitor_mapped
+"Canton-Massillon, OH Metro Area",400960.0,62859.0,15940.0,0,0,1,0,1,Expansion Target,37.8006230529595,75.0,52.6803738317757,241000.0,competitor_mapped
+"Springfield, MO Metro Area",477056.0,58291.0,44180.0,0,0,1,0,1,Expansion Target,37.67601246105919,75.0,52.60560747663551,286000.0,competitor_mapped
+"Warsaw, IN Micro Area",80442.0,70945.0,47700.0,0,0,0,0,0,Expansion Target,20.778816199376948,100.0,52.467289719626166,48000.0,uncovered_opportunity
+"Sidney, OH Micro Area",48145.0,73502.0,43380.0,0,0,0,0,0,Expansion Target,20.373831775700936,100.0,52.22429906542056,29000.0,uncovered_opportunity
+"Duluth, MN-WI Metro Area",291491.0,67612.0,20260.0,0,0,1,0,1,Expansion Target,36.99065420560747,75.0,52.194392523364485,175000.0,competitor_mapped
+"Stevens Point, WI Micro Area",70281.0,71301.0,44620.0,0,0,0,0,0,Expansion Target,20.0,100.0,52.0,42000.0,uncovered_opportunity
+"Roanoke, VA Metro Area",314708.0,65687.0,40220.0,0,0,1,0,1,Expansion Target,36.585669781931465,75.0,51.95140186915888,189000.0,competitor_mapped
+"Evanston, WY Micro Area",20546.0,78164.0,21740.0,0,0,0,0,0,Expansion Target,19.87538940809969,100.0,51.925233644859816,12000.0,uncovered_opportunity
+"Montgomery, AL Metro Area",384740.0,60849.0,33860.0,0,0,1,0,1,Expansion Target,36.398753894081,75.0,51.839252336448595,231000.0,competitor_mapped
+"Mobile, AL Metro Area",429312.0,55247.0,33660.0,0,0,1,0,1,Expansion Target,35.931464174454824,75.0,51.55887850467289,258000.0,competitor_mapped
+"Willmar, MN Micro Area",43686.0,73285.0,48820.0,0,0,0,0,0,Expansion Target,19.190031152647975,100.0,51.51401869158879,26000.0,uncovered_opportunity
+"Tallahassee, FL Metro Area",386064.0,59757.0,45220.0,0,0,1,0,1,Expansion Target,35.80685358255452,75.0,51.484112149532706,232000.0,competitor_mapped
+"Ocean City, NJ Metro Area",95456.0,83870.0,36140.0,0,0,1,0,1,Expansion Target,35.638629283489095,75.0,51.38317757009345,57000.0,competitor_mapped
+"Milwaukee-Waukesha, WI Metro Area",1568940.0,72937.0,33340.0,1,1,1,0,3,Expansion Target,68.94704049844236,25.0,51.36822429906542,941000.0,competitor_mapped
+"Celina, OH Micro Area",42321.0,73278.0,16380.0,0,0,0,0,0,Expansion Target,18.940809968847354,100.0,51.36448598130841,25000.0,uncovered_opportunity
+"St. Cloud, MN Metro Area",199922.0,72564.0,41060.0,0,0,1,0,1,Expansion Target,35.57632398753894,75.0,51.34579439252336,120000.0,competitor_mapped
+"Spartanburg, SC Metro Area",330119.0,61955.0,43900.0,0,0,1,0,1,Expansion Target,35.37071651090342,75.0,51.22242990654205,198000.0,competitor_mapped
+"Daphne-Fairhope-Foley, AL Metro Area",233420.0,71039.0,19300.0,0,0,1,0,1,Expansion Target,35.35825545171339,75.0,51.21495327102804,140000.0,competitor_mapped
+"Mount Vernon, OH Micro Area",62657.0,71246.0,34540.0,0,0,0,0,0,Expansion Target,18.629283489096572,100.0,51.177570093457945,38000.0,uncovered_opportunity
+"Las Vegas-Henderson-Paradise, NV Metro Area",2265926.0,69911.0,29820.0,1,1,1,0,3,Expansion Target,68.20872274143302,25.0,50.92523364485981,1360000.0,competitor_mapped
+"Pella, IA Micro Area",33487.0,74193.0,37800.0,0,0,0,0,0,Expansion Target,18.09968847352025,100.0,50.85981308411215,20000.0,uncovered_opportunity
+"Hickory-Lenoir-Morganton, NC Metro Area",366031.0,57943.0,25860.0,0,0,1,0,1,Expansion Target,34.373831775700936,75.0,50.62429906542056,220000.0,competitor_mapped
+"Prineville, OR Micro Area",24987.0,74969.0,39260.0,0,0,0,0,0,Expansion Target,17.601246105919003,100.0,50.5607476635514,15000.0,uncovered_opportunity
+"Hutchinson, MN Micro Area",36727.0,73296.0,26780.0,0,0,0,0,0,Expansion Target,17.570093457943923,100.0,50.54205607476635,22000.0,uncovered_opportunity
+"Lynchburg, VA Metro Area",262124.0,64307.0,31340.0,0,0,1,0,1,Expansion Target,33.93769470404985,75.0,50.36261682242991,157000.0,competitor_mapped
+"Gainesville, FL Metro Area",341067.0,56638.0,23540.0,0,0,1,0,1,Expansion Target,33.875389408099686,75.0,50.32523364485981,205000.0,competitor_mapped
+"Alexandria, MN Micro Area",39081.0,72472.0,10820.0,0,0,0,0,0,Expansion Target,17.009345794392523,100.0,50.205607476635514,23000.0,uncovered_opportunity
+"Winnemucca, NV Micro Area",17266.0,75574.0,49080.0,0,0,0,0,0,Expansion Target,16.947040498442366,100.0,50.16822429906542,10000.0,uncovered_opportunity
+"Kearney, NE Micro Area",56758.0,70727.0,28260.0,0,0,0,0,0,Expansion Target,16.88473520249221,100.0,50.13084112149532,34000.0,uncovered_opportunity
+"Effingham, IL Micro Area",34594.0,73181.0,20820.0,0,0,0,0,0,Expansion Target,16.72897196261682,100.0,50.03738317757009,21000.0,uncovered_opportunity
+"Madera, CA Metro Area",157243.0,73543.0,31460.0,0,0,1,0,1,Expansion Target,33.2398753894081,75.0,49.94392523364486,94000.0,competitor_mapped
+"Waco, TX Metro Area",278103.0,59193.0,47380.0,1,0,0,0,1,Expansion Target,32.50467289719626,75.0,49.50280373831775,167000.0,competitor_mapped
+"Sonora, CA Micro Area",54993.0,70432.0,43760.0,0,0,0,0,0,Expansion Target,15.42056074766355,100.0,49.25233644859813,33000.0,uncovered_opportunity
+"El Paso, TX Metro Area",867161.0,55344.0,21340.0,1,0,1,0,2,Expansion Target,48.59190031152648,50.0,49.15514018691589,520000.0,competitor_mapped
+"Cleveland-Elyria, OH Metro Area",2079759.0,66481.0,17460.0,1,1,1,0,3,Expansion Target,65.18691588785046,25.0,49.112149532710276,1248000.0,competitor_mapped
+"Fernley, NV Micro Area",59435.0,70026.0,22280.0,0,0,0,0,0,Expansion Target,15.077881619937692,100.0,49.046728971962615,36000.0,uncovered_opportunity
+"Aberdeen, SD Micro Area",42292.0,70693.0,10100.0,0,0,0,0,0,Expansion Target,14.67289719626168,100.0,48.80373831775701,25000.0,uncovered_opportunity
+"Marshalltown, IA Micro Area",40049.0,70828.0,32260.0,0,0,0,0,0,Expansion Target,14.641744548286603,100.0,48.78504672897196,24000.0,uncovered_opportunity
+"Kendallville, IN Micro Area",47431.0,70286.0,28340.0,0,0,0,0,0,Expansion Target,14.361370716510903,100.0,48.61682242990654,28000.0,uncovered_opportunity
+"Urbana, OH Micro Area",38715.0,70486.0,46500.0,0,0,0,0,0,Expansion Target,13.426791277258566,100.0,48.05607476635514,23000.0,uncovered_opportunity
+"Greensburg, IN Micro Area",26432.0,71566.0,24700.0,0,0,0,0,0,Expansion Target,13.146417445482864,100.0,47.88785046728972,16000.0,uncovered_opportunity
+"McPherson, KS Micro Area",30085.0,71250.0,32700.0,0,0,0,0,0,Expansion Target,12.959501557632398,100.0,47.77570093457944,18000.0,uncovered_opportunity
+"Spirit Lake, IA Micro Area",17692.0,72446.0,44020.0,0,0,0,0,0,Expansion Target,12.616822429906541,100.0,47.570093457943926,11000.0,uncovered_opportunity
+"Dover, DE Metro Area",182400.0,69278.0,20100.0,0,0,1,0,1,Expansion Target,29.065420560747665,75.0,47.4392523364486,109000.0,competitor_mapped
+"Chico, CA Metro Area",213605.0,66085.0,17020.0,0,0,1,0,1,Expansion Target,28.971962616822427,75.0,47.38317757009345,128000.0,competitor_mapped
+"Redding, CA Metro Area",181852.0,68347.0,39820.0,0,0,1,0,1,Expansion Target,28.47352024922118,75.0,47.08411214953271,109000.0,competitor_mapped
+"Brenham, TX Micro Area",35807.0,70043.0,14780.0,0,0,0,0,0,Expansion Target,11.526479750778815,100.0,46.915887850467286,21000.0,uncovered_opportunity
+"Fort Morgan, CO Micro Area",29045.0,70471.0,22820.0,0,0,0,0,0,Expansion Target,11.30841121495327,100.0,46.78504672897196,17000.0,uncovered_opportunity
+"Fredericksburg, TX Micro Area",26953.0,70162.0,23240.0,0,0,0,0,0,Expansion Target,10.498442367601246,100.0,46.29906542056075,16000.0,uncovered_opportunity
+"Panama City, FL Metro Area",181055.0,65999.0,37460.0,0,0,1,0,1,Expansion Target,26.542056074766357,75.0,45.925233644859816,109000.0,competitor_mapped
+"Glens Falls, NY Metro Area",126994.0,71380.0,24020.0,0,0,1,0,1,Expansion Target,26.510903426791273,75.0,45.90654205607476,76000.0,competitor_mapped
+"Jefferson City, MO Metro Area",150182.0,70195.0,27620.0,0,0,1,0,1,Expansion Target,26.105919003115265,75.0,45.66355140186916,90000.0,competitor_mapped
+"Yuma, AZ Metro Area",204374.0,56439.0,49740.0,0,0,1,0,1,Expansion Target,24.485981308411215,75.0,44.69158878504673,123000.0,competitor_mapped
+"Blacksburg-Christiansburg, VA Metro Area",166304.0,62017.0,13980.0,0,0,1,0,1,Expansion Target,23.20872274143302,75.0,43.925233644859816,100000.0,competitor_mapped
+"El Centro, CA Metro Area",179578.0,53847.0,20940.0,0,0,1,0,1,Expansion Target,21.931464174454828,75.0,43.1588785046729,108000.0,competitor_mapped
+"Harrisonburg, VA Metro Area",135689.0,66823.0,25500.0,0,0,1,0,1,Expansion Target,21.806853582554517,75.0,43.08411214953271,81000.0,competitor_mapped
+"Staunton, VA Metro Area",125355.0,67711.0,44420.0,0,0,1,0,1,Expansion Target,21.18380062305296,75.0,42.71028037383178,75000.0,competitor_mapped
+"Decatur, AL Metro Area",156218.0,60036.0,19460.0,0,0,1,0,1,Expansion Target,21.121495327102803,75.0,42.67289719626168,94000.0,competitor_mapped
+"Dalton, GA Metro Area",143096.0,60017.0,19140.0,0,0,1,0,1,Expansion Target,19.158878504672895,75.0,41.495327102803735,86000.0,competitor_mapped
+"Homosassa Springs, FL Metro Area",155173.0,52569.0,26140.0,0,0,1,0,1,Expansion Target,18.753894080996886,75.0,41.25233644859813,93000.0,competitor_mapped
+"Springfield, OH Metro Area",135877.0,58954.0,44220.0,0,0,1,0,1,Expansion Target,18.130841121495326,75.0,40.87850467289719,82000.0,competitor_mapped
+"St. Joseph, MO-KS Metro Area",121952.0,61030.0,41140.0,0,0,1,0,1,Expansion Target,17.788161993769467,75.0,40.67289719626168,73000.0,competitor_mapped
+"Cleveland, TN Metro Area",126479.0,60001.0,17420.0,0,0,1,0,1,Expansion Target,17.663551401869157,75.0,40.598130841121495,76000.0,competitor_mapped
+"Morristown, TN Metro Area",143196.0,52913.0,34100.0,0,0,1,0,1,Expansion Target,17.445482866043616,75.0,40.467289719626166,86000.0,competitor_mapped
+"Brainerd, MN Micro Area",96846.0,64975.0,14660.0,0,0,1,0,1,Expansion Target,17.133956386292834,75.0,40.2803738317757,58000.0,competitor_mapped
+"Sumter, SC Metro Area",136362.0,52942.0,44940.0,0,0,1,0,1,Expansion Target,17.07165109034268,75.0,40.242990654205606,82000.0,competitor_mapped
+"Sierra Vista-Douglas, AZ Metro Area",125504.0,58421.0,43420.0,0,0,1,0,1,Expansion Target,16.947040498442366,75.0,40.16822429906542,75000.0,competitor_mapped
+"Sevierville, TN Micro Area",98455.0,60103.0,42940.0,0,0,1,0,1,Expansion Target,15.233644859813083,75.0,39.14018691588785,59000.0,competitor_mapped
+"Orangeburg, SC Micro Area",84159.0,41020.0,36700.0,0,0,1,0,1,Expansion Target,11.557632398753894,75.0,36.93457943925234,50000.0,competitor_mapped
+"Shawnee, OK Micro Area",72734.0,58270.0,43060.0,0,0,1,0,1,Expansion Target,10.996884735202492,75.0,36.598130841121495,44000.0,competitor_mapped
+"Georgetown, SC Micro Area",63594.0,59782.0,23860.0,0,0,1,0,1,Expansion Target,10.560747663551401,75.0,36.33644859813084,38000.0,competitor_mapped
+"Lake City, FL Micro Area",69832.0,53501.0,29380.0,0,0,1,0,1,Expansion Target,9.84423676012461,75.0,35.90654205607477,42000.0,competitor_mapped
+"Worcester, MA-CT Metro Area",975551.0,86708.0,49340.0,0,0,0,1,1,Current Market,73.79439252336448,75.0,0.0,0.0,competitor_mapped
+"New York-Newark-Jersey City, NY-NJ-PA Metro Area",19908595.0,93610.0,35620.0,1,1,1,1,4,Current Market,97.38317757009347,0.0,0.0,0.0,competitor_mapped
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",6232894.0,85555.0,37980.0,1,1,1,1,4,Current Market,93.27102803738318,0.0,0.0,0.0,competitor_mapped
+"Boston-Cambridge-Newton, MA-NH Metro Area",4912449.0,107117.0,14460.0,1,1,1,1,4,Current Market,92.85046728971963,0.0,0.0,0.0,competitor_mapped
+"Provo-Orem, UT Metro Area",677964.0,91190.0,39340.0,0,0,1,1,2,Current Market,70.77258566978193,50.0,0.0,0.0,competitor_mapped
+"Springfield, MA Metro Area",689486.0,70547.0,44140.0,0,0,0,1,1,Current Market,53.85669781931464,75.0,0.0,0.0,competitor_mapped
+"Ogden-Clearfield, UT Metro Area",696650.0,91022.0,36260.0,0,0,1,1,2,Current Market,71.20872274143302,50.0,0.0,0.0,competitor_mapped
+"Trenton-Princeton, NJ Metro Area",383732.0,92697.0,45940.0,1,0,1,1,3,Current Market,60.35514018691589,25.0,0.0,0.0,competitor_mapped
+"Boulder, CO Metro Area",328658.0,99770.0,14500.0,0,0,1,1,2,Current Market,60.63551401869159,50.0,0.0,0.0,competitor_mapped
+"Bridgeport-Stamford-Norwalk, CT Metro Area",958371.0,107351.0,14860.0,1,0,1,1,3,Current Market,78.24922118380061,25.0,0.0,0.0,competitor_mapped
+"San Antonio-New Braunfels, TX Metro Area",2570862.0,70910.0,41700.0,1,1,1,1,4,Current Market,71.41744548286604,0.0,0.0,0.0,competitor_mapped
+"Providence-Warwick, RI-MA Metro Area",1670949.0,81136.0,39300.0,1,1,1,1,4,Current Market,77.38940809968847,0.0,0.0,0.0,competitor_mapped
+"Sacramento-Roseville-Folsom, CA Metro Area",2394673.0,89227.0,40900.0,1,1,1,1,4,Current Market,86.80685358255451,0.0,0.0,0.0,competitor_mapped
+"New Haven-Milford, CT Metro Area",866377.0,81544.0,35300.0,0,1,1,1,3,Current Market,68.99688473520249,25.0,0.0,0.0,competitor_mapped
+"Baltimore-Columbia-Towson, MD Metro Area",2840005.0,94167.0,12580.0,1,1,1,1,4,Current Market,89.61059190031153,0.0,0.0,0.0,competitor_mapped
+"San Francisco-Oakland-Berkeley, CA Metro Area",4692242.0,129315.0,41860.0,1,1,1,1,4,Current Market,93.09968847352025,0.0,0.0,0.0,competitor_mapped
+"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",6346083.0,119803.0,47900.0,0,1,1,1,3,Current Market,98.94080996884735,25.0,0.0,0.0,competitor_mapped
+"Tucson, AZ Metro Area",1042393.0,64323.0,46060.0,1,0,1,1,3,Current Market,58.230529595015575,25.0,0.0,0.0,competitor_mapped
+"Denver-Aurora-Lakewood, CO Metro Area",2959386.0,96920.0,19740.0,1,1,1,1,4,Current Market,90.32710280373831,0.0,0.0,0.0,competitor_mapped
+"Hartford-East Hartford-Middletown, CT Metro Area",1215703.0,89371.0,25540.0,0,1,1,1,3,Current Market,80.41121495327103,25.0,0.0,0.0,competitor_mapped
+"Atlanta-Sandy Springs-Alpharetta, GA Metro Area",6094752.0,82625.0,12060.0,1,1,1,1,4,Current Market,91.5576323987539,0.0,0.0,0.0,competitor_mapped
+"Salt Lake City, UT Metro Area",1254675.0,90277.0,41620.0,0,1,1,1,3,Current Market,80.84735202492212,25.0,0.0,0.0,competitor_mapped
+"Santa Cruz-Watsonville, CA Metro Area",268571.0,104409.0,42100.0,0,0,0,1,1,Current Market,58.9221183800623,75.0,0.0,0.0,competitor_mapped
+"Barnstable Town, MA Metro Area",229436.0,90447.0,12700.0,0,0,0,1,1,Current Market,51.18380062305296,75.0,0.0,0.0,competitor_mapped
+"Olympia-Lacey-Tumwater, WA Metro Area",294272.0,88895.0,36500.0,0,0,0,1,1,Current Market,56.679127725856695,75.0,0.0,0.0,competitor_mapped
+"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",9566955.0,85087.0,16980.0,1,1,1,1,4,Current Market,93.8006230529595,0.0,0.0,0.0,competitor_mapped
+"Salinas, CA Metro Area",437609.0,91043.0,41500.0,0,0,1,1,2,Current Market,61.85046728971962,50.0,0.0,0.0,competitor_mapped
+"Phoenix-Mesa-Chandler, AZ Metro Area",4864209.0,79935.0,38060.0,1,1,1,1,4,Current Market,83.81619937694704,0.0,0.0,0.0,competitor_mapped
+"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2505312.0,90451.0,38900.0,1,1,1,1,4,Current Market,87.61682242990653,0.0,0.0,0.0,competitor_mapped
+"Los Angeles-Long Beach-Anaheim, CA Metro Area",13111917.0,89105.0,31080.0,1,1,1,1,4,Current Market,95.35825545171339,0.0,0.0,0.0,competitor_mapped
+"Houston-The Woodlands-Sugar Land, TX Metro Area",7142603.0,78061.0,26420.0,1,1,1,1,4,Current Market,87.88161993769471,0.0,0.0,0.0,competitor_mapped
+"Austin-Round Rock-Georgetown, TX Metro Area",2296377.0,92939.0,12420.0,1,1,1,1,4,Current Market,87.89719626168224,0.0,0.0,0.0,competitor_mapped
+"Miami-Fort Lauderdale-Pompano Beach, FL Metro Area",6123949.0,69085.0,33100.0,1,1,1,1,4,Current Market,75.9190031152648,0.0,0.0,0.0,competitor_mapped
+"San Diego-Chula Vista-Carlsbad, CA Metro Area",3289701.0,96974.0,41740.0,1,1,1,1,4,Current Market,90.73208722741433,0.0,0.0,0.0,competitor_mapped
+"Fort Collins, CO Metro Area",359363.0,87199.0,22660.0,0,0,0,1,1,Current Market,57.76947040498442,75.0,0.0,0.0,competitor_mapped
+"Santa Rosa-Petaluma, CA Metro Area",488436.0,99266.0,42220.0,0,0,1,1,2,Current Market,64.74766355140187,50.0,0.0,0.0,competitor_mapped
+"San Jose-Sunnyvale-Santa Clara, CA Metro Area",1981584.0,151713.0,41940.0,1,1,1,1,4,Current Market,86.39252336448598,0.0,0.0,0.0,competitor_mapped
+"Seattle-Tacoma-Bellevue, WA Metro Area",4001701.0,107206.0,42660.0,1,1,1,1,4,Current Market,92.16510903426791,0.0,0.0,0.0,competitor_mapped
+"Dallas-Fort Worth-Arlington, TX Metro Area",7673379.0,83398.0,19100.0,1,1,1,1,4,Current Market,92.89719626168224,0.0,0.0,0.0,competitor_mapped
+"Heber, UT Micro Area",77533.0,114857.0,25720.0,0,0,0,1,1,Current Market,39.90654205607476,75.0,0.0,0.0,competitor_mapped

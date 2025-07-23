@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lugg Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+    <script type='text/javascript' src='https://public.tableau.com/javascripts/api/tableau-2.min.js'></script>
+</head>
+<body>
+    <div class="sidebar">
+        <!-- Lugg Logo -->
+        <div class="logo-section">
+            <div class="logo">
+                <img src="lugg-logo.jpeg" alt="Lugg" class="logo-image">
+            </div>
+        </div>
+
+        <!-- Navigation Menu -->
+        <nav class="nav-menu">
+            <div class="nav-item active" data-tab="overview">
+                Overview
+            </div>
+            <div class="nav-item" data-tab="competitive-intelligence">
+                Competitive Intelligence
+            </div>
+            <div class="nav-item" data-tab="expansion-priorities">
+                Expansion Priorities
+            </div>
+        </nav>
+
+        <!-- Bottom Decorative Element -->
+        <div class="bottom-decoration">
+            <div class="moving-van">
+                <div class="van-body"></div>
+                <div class="van-cab"></div>
+                <div class="van-wheel wheel-front"></div>
+                <div class="van-wheel wheel-back"></div>
+                <div class="van-details">
+                    <div class="van-door"></div>
+                    <div class="van-window"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Content Area -->
+    <div class="main-content">
+        <!-- Overview Tab -->
+        <div id="overview-content">
+            <div class="kpi-cards overview-kpis">
+                <div class="kpi-card overview-card">
+                    <div class="kpi-value">321</div>
+                    <div class="kpi-label">Total Addressable MSAs</div>
+                </div>
+                <div class="kpi-card overview-card">
+                    <div class="kpi-value">40</div>
+                    <div class="kpi-label">Lugg's Active MSAs</div>
+                </div>
+                <div class="kpi-card overview-card">
+                    <div class="kpi-value">265M</div>
+                    <div class="kpi-label">Total Market Population</div>
+                </div>
+                <div class="kpi-card overview-card">
+                    <div class="kpi-value">164</div>
+                    <div class="kpi-label">Zero Competition Markets</div>
+                </div>
+            </div>
+            
+            <!-- Charts section -->
+            <div class="overview-charts">
+                <div class="chart-container map-container">
+                    <h3>Market Presence</h3>
+                    <div class="tableau-embed">
+                        <div class='tableauPlaceholder' id='viz1643234567890' style='position: relative'>
+                            <noscript>
+                                <a href='#'>
+                                    <img alt='Overview-Map' src='https://public.tableau.com/static/images/Lu/LuggMarketExpnasionAnalysis/Overview-Map/1_rss.png' style='border: none' />
+                                </a>
+                            </noscript>
+                            <object class='tableauViz' style='display:none;'>
+                                <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+                                <param name='embed_code_version' value='3' />
+                                <param name='site_root' value='' />
+                                <param name='name' value='LuggMarketExpnasionAnalysis&#47;Overview-Map' />
+                                <param name='tabs' value='no' />
+                                <param name='toolbar' value='yes' />
+                                <param name='static_image' value='https://public.tableau.com/static/images/Lu/LuggMarketExpnasionAnalysis/Overview-Map/1.png' />
+                                <param name='animate_transition' value='yes' />
+                                <param name='display_static_image' value='yes' />
+                                <param name='display_spinner' value='yes' />
+                                <param name='display_overlay' value='yes' />
+                                <param name='display_count' value='yes' />
+                                <param name='language' value='en-US' />
+                            </object>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="chart-container bar-chart-container">
+                    <h3>Market Size Distribution</h3>
+                    <div class="tableau-embed">
+                        <div class='tableauPlaceholder' id='viz-bar-chart' style='position: relative'>
+                            <noscript>
+                                <a href='#'>
+                                    <img alt='Market Size Distribution - Overview' src='https://public.tableau.com/static/images/Lu/LuggMarketExpnasionAnalysis/MarketSizeDistribution-Overview/1_rss.png' style='border: none' />
+                                </a>
+                            </noscript>
+                            <object class='tableauViz' style='display:none;'>
+                                <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+                                <param name='embed_code_version' value='3' />
+                                <param name='site_root' value='' />
+                                <param name='name' value='LuggMarketExpnasionAnalysis&#47;MarketSizeDistribution-Overview' />
+                                <param name='tabs' value='no' />
+                                <param name='toolbar' value='yes' />
+                                <param name='static_image' value='https://public.tableau.com/static/images/Lu/LuggMarketExpnasionAnalysis/MarketSizeDistribution-Overview/1.png' />
+                                <param name='animate_transition' value='yes' />
+                                <param name='display_static_image' value='yes' />
+                                <param name='display_spinner' value='yes' />
+                                <param name='display_overlay' value='yes' />
+                                <param name='display_count' value='yes' />
+                                <param name='language' value='en-US' />
+                            </object>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+
+        <!-- Competitive Intelligence Tab -->
+        <div class="hidden" id="competitive-intelligence-content">
+            <div class="kpi-cards competitive-kpis">
+                <div class="kpi-card competitive-card">
+                    <div class="kpi-value">146</div>
+                    <div class="kpi-label">GoShare's Active MSAs</div>
+                </div>
+                <div class="kpi-card competitive-card">
+                    <div class="kpi-value">52</div>
+                    <div class="kpi-label">TaskRabbit's Active MSAs</div>
+                </div>
+                <div class="kpi-card competitive-card">
+                    <div class="kpi-value">42</div>
+                    <div class="kpi-label">Dolly's Active MSAs</div>
+                </div>
+                <div class="kpi-card competitive-card">
+                    <div class="kpi-value">21</div>
+                    <div class="kpi-label">High-Competition MSAs</div>
+                </div>
+            </div>
+            
+            <!-- Competitive Analysis Chart -->
+            <div class="competitive-charts">
+                <div class="chart-container full-width-chart">
+                    <h3>Competition Analysis Matrix</h3>
+                    <div class="tableau-embed">
+                        <div class='tableauPlaceholder' id='viz-competitive-matrix' style='position: relative'>
+                            <noscript>
+                                <a href='#'>
+                                    <img alt='Competition Analysis Matrix - CI' src='https://public.tableau.com/static/images/Lu/LuggMarketExpnasionAnalysis/CompetitionAnalysisMatrix-CI/1_rss.png' style='border: none' />
+                                </a>
+                            </noscript>
+                            <object class='tableauViz' style='display:none;'>
+                                <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+                                <param name='embed_code_version' value='3' />
+                                <param name='site_root' value='' />
+                                <param name='name' value='LuggMarketExpnasionAnalysis&#47;CompetitionAnalysisMatrix-CI' />
+                                <param name='tabs' value='no' />
+                                <param name='toolbar' value='yes' />
+                                <param name='static_image' value='https://public.tableau.com/static/images/Lu/LuggMarketExpnasionAnalysis/CompetitionAnalysisMatrix-CI/1.png' />
+                                <param name='animate_transition' value='yes' />
+                                <param name='display_static_image' value='yes' />
+                                <param name='display_spinner' value='yes' />
+                                <param name='display_overlay' value='yes' />
+                                <param name='display_count' value='yes' />
+                                <param name='language' value='en-US' />
+                            </object>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Expansion Priorities Tab -->
+        <!-- Expansion Priorities Tab -->
+        <div class="hidden" id="expansion-priorities-content">
+            <div class="expansion-layout">
+                <!-- Left Half - Scrollable Table -->
+                <div class="expansion-left">
+                    <h3>Market Expansion Priorities</h3>
+                    <div class="scrollable-table-container">
+                        <table class="expansion-table">
+                            <thead>
+                                <tr>
+                                    <th>Metro Area Name</th>
+                                    <th>Exp. Score</th>
+                                    <th>Pop.</th>
+                                    <th>Income</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Poughkeepsie-Newburgh-Middletown, NY Metro Area</td>
+                                    <td class="score-high">83.2</td>
+                                    <td>697,704</td>
+                                    <td>82,870</td>
+                                </tr>
+                                <tr>
+                                    <td>Grand Rapids-Kentwood, MI Metro Area</td>
+                                    <td class="score-high">82.9</td>
+                                    <td>1,087,068</td>
+                                    <td>76,898</td>
+                                </tr>
+                                <tr>
+                                    <td>Madison, WI Metro Area</td>
+                                    <td class="score-high">80.6</td>
+                                    <td>678,995</td>
+                                    <td>82,996</td>
+                                </tr>
+                                <tr>
+                                    <td>Riverside-San Bernardino-Ontario, CA Metro Area</td>
+                                    <td class="score-high">80.6</td>
+                                    <td>4,610,050</td>
+                                    <td>81,041</td>
+                                </tr>
+                                <tr>
+                                    <td>Portland-South Portland, ME Metro Area</td>
+                                    <td class="score-medium">79.4</td>
+                                    <td>552,916</td>
+                                    <td>84,095</td>
+                                </tr>
+                                <tr>
+                                    <td>Urban Honolulu, HI Metro Area</td>
+                                    <td class="score-medium">79.3</td>
+                                    <td>1,010,100</td>
+                                    <td>99,816</td>
+                                </tr>
+                                <tr>
+                                    <td>Lancaster, PA Metro Area</td>
+                                    <td class="score-medium">78.2</td>
+                                    <td>553,202</td>
+                                    <td>81,458</td>
+                                </tr>
+                                <tr>
+                                    <td>Manchester-Nashua, NH Metro Area</td>
+                                    <td class="score-medium">77.5</td>
+                                    <td>422,733</td>
+                                    <td>95,112</td>
+                                </tr>
+                                <tr>
+                                    <td>Anchorage, AK Metro Area</td>
+                                    <td class="score-medium">76.7</td>
+                                    <td>399,335</td>
+                                    <td>93,016</td>
+                                </tr>
+                                <tr>
+                                    <td>Harrisburg-Carlisle, PA Metro Area</td>
+                                    <td class="score-medium">75.9</td>
+                                    <td>593,316</td>
+                                    <td>76,189</td>
+                                </tr>
+                                <tr>
+                                    <td>San Juan-Bayamón-Caguas, PR Metro Area</td>
+                                    <td class="score-medium">75.9</td>
+                                    <td>2,073,546</td>
+                                    <td>26,853</td>
+                                </tr>
+                                <tr>
+                                    <td>Oxnard-Thousand Oaks-Ventura, CA Metro Area</td>
+                                    <td class="score-medium">75.5</td>
+                                    <td>842,009</td>
+                                    <td>102,141</td>
+                                </tr>
+                                <tr>
+                                    <td>Greeley, CO Metro Area</td>
+                                    <td class="score-medium">74.8</td>
+                                    <td>331,466</td>
+                                    <td>89,182</td>
+                                </tr>
+                                <tr>
+                                    <td>Bremerton-Silverdale-Port Orchard, WA Metro Area</td>
+                                    <td class="score-medium">74.6</td>
+                                    <td>275,411</td>
+                                    <td>93,675</td>
+                                </tr>
+                                <tr>
+                                    <td>Fayetteville-Springdale-Rogers, AR Metro Area</td>
+                                    <td class="score-medium">73.3</td>
+                                    <td>550,596</td>
+                                    <td>73,316</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                
+                <!-- Right Half - Additional Content -->
+                <!-- Right Half - Tableau Chart -->
+                <div class="expansion-right">
+                    <h3>Market Size vs. Attractiveness</h3>
+                    <div class="tableau-expansion-container">
+                        <div class='tableauPlaceholder' id='viz-expansion-multi' style='position: relative'>
+                            <noscript>
+                                <a href='#'>
+                                    <img alt='Expansion Multi-Metric - EP' src='https://public.tableau.com/static/images/Lu/LuggMarketExpnasionAnalysis/ExpansionMulti-Metric-EP/1_rss.png' style='border: none' />
+                                </a>
+                            </noscript>
+                            <object class='tableauViz' style='display:none;'>
+                                <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+                                <param name='embed_code_version' value='3' />
+                                <param name='site_root' value='' />
+                                <param name='name' value='LuggMarketExpnasionAnalysis&#47;ExpansionMulti-Metric-EP' />
+                                <param name='tabs' value='no' />
+                                <param name='toolbar' value='yes' />
+                                <param name='static_image' value='https://public.tableau.com/static/images/Lu/LuggMarketExpnasionAnalysis/ExpansionMulti-Metric-EP/1.png' />
+                                <param name='animate_transition' value='yes' />
+                                <param name='display_static_image' value='yes' />
+                                <param name='display_spinner' value='yes' />
+                                <param name='display_overlay' value='yes' />
+                                <param name='display_count' value='yes' />
+                                <param name='language' value='en-US' />
+                            </object>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Tab switching functionality
+        document.querySelectorAll('.nav-item').forEach(item => {
+            item.addEventListener('click', function() {
+                // Remove active class from all nav items
+                document.querySelectorAll('.nav-item').forEach(nav => nav.classList.remove('active'));
+                // Add active class to clicked item
+                this.classList.add('active');
+                
+                // Hide all content sections
+                document.querySelectorAll('#overview-content, #competitive-intelligence-content, #expansion-priorities-content, #about-content').forEach(content => {
+                    content.classList.add('hidden');
+                });
+                
+                // Show the appropriate content based on tab
+                const tabName = this.getAttribute('data-tab');
+                const contentElement = document.getElementById(tabName + '-content');
+                if (contentElement) {
+                    contentElement.classList.remove('hidden');
+                }
+            });
+        });
+
+        // Initialize Overview Map
+        function initTableau() {
+            var containerDiv = document.getElementById("viz1643234567890");
+            var url = "https://public.tableau.com/views/LuggMarketExpnasionAnalysis/Overview-Map";
+            var options = {
+                hideTabs: true,
+                hideToolbar: true,
+                width: "100%",
+                height: "100%"
+            };
+            
+            if (containerDiv) {
+                var viz = new tableau.Viz(containerDiv, url, options);
+            }
+        }
+
+        // Initialize Bar Chart Tableau visualization
+        function initBarChart() {
+            var containerDiv = document.getElementById("viz-bar-chart");
+            var url = "https://public.tableau.com/views/LuggMarketExpnasionAnalysis/MarketSizeDistribution-Overview";
+            var options = {
+                hideTabs: true,
+                hideToolbar: true,
+                width: "100%",
+                height: "100%"
+            };
+            
+            if (containerDiv) {
+                var viz = new tableau.Viz(containerDiv, url, options);
+            }
+        }
+
+        // Initialize Competitive Matrix Tableau visualization
+        // Initialize Competitive Matrix Tableau visualization
+        function initCompetitiveMatrix() {
+            var containerDiv = document.getElementById("viz-competitive-matrix");
+            var url = "https://public.tableau.com/views/LuggMarketExpnasionAnalysis/CompetitionAnalysisMatrix-CI";
+            var options = {
+                hideTabs: true,
+                hideToolbar: false,
+                width: 1050,
+                height: 350,
+                device: "desktop"
+            };
+            
+            if (containerDiv) {
+                containerDiv.innerHTML = '';
+                var viz = new tableau.Viz(containerDiv, url, options);
+            }
+        }
+        // Initialize Expansion Multi-Metric Tableau visualization
+        function initExpansionMultiMetric() {
+            var containerDiv = document.getElementById("viz-expansion-multi");
+            var url = "https://public.tableau.com/views/LuggMarketExpnasionAnalysis/ExpansionMulti-Metric-EP";
+            var options = {
+                hideTabs: true,
+                hideToolbar: false,
+                width: 1000,
+                height: 600,
+                device: "desktop"
+            };
+            
+            if (containerDiv) {
+                containerDiv.innerHTML = '';
+                var viz = new tableau.Viz(containerDiv, url, options);
+            }
+        }
+
+        // Initialize all charts when page loads
+        // Initialize all charts when page loads
+        window.addEventListener('load', function() {
+            initTableau(); // Overview map
+            initBarChart(); // Overview bar chart
+            initCompetitiveMatrix(); // Competitive matrix
+            initExpansionMultiMetric(); // Add this line!
+        });
+    </script>
+</body>
+</html>
