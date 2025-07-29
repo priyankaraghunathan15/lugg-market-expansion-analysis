@@ -122,15 +122,17 @@ start index.html # Windows
 
 ```
 lugg-market-expansion-analysis/
-├── index.html                        # Dashboard
-├── styles.css                        # Styling
-├── Lugg_Market_Expansion_Analysis.ipynb  # Jupyter analysis notebook
+├── index.html # Dashboard
+├── styles.css # Styling and animations
+├── Lugg_Market_Expansion_Analysis.ipynb # Market analysis notebook
+├── images/
+│ └── lugg-image.jpeg # Project image for README
 ├── data/
-│   ├── census_metro_data.csv
-│   ├── lugg_strategic_market_analysis.csv
-│   ├── lugg_top_15_expansion_opportunities.csv
-│   └── lugg_executive_summary.csv
-└── README.md
+│ ├── census_metro_data.csv
+│ ├── lugg_strategic_market_analysis.csv
+│ ├── lugg_top_15_expansion_opportunities.csv
+│ └── lugg_executive_summary.csv
+└── README.md # Project documentation
 ```
 
 ---
