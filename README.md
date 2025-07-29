@@ -2,6 +2,11 @@
 <h1 align='center'>Lugg Market Expansion Analysis</h1>
 
 <p align="center">
+  <img src="images/lugg-image.jpeg" alt="Lugg Moving Truck" width="500"/>
+</p>
+"""
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
