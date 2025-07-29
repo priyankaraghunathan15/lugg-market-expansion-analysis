@@ -142,8 +142,4 @@ lugg-market-expansion-analysis/
 - Integration of age and education demographics
 - Tableau Server deployment for dynamic updates
 
----
 
-**Author**: Priyanka Raghunathan  
-**License**: MIT  
-**Contact**: [GitHub](https://github.com/priyankaraghunathan15) • [LinkedIn](https://www.linkedin.com/in/priyankaraghunathan)
