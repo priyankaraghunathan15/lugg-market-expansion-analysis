@@ -1,5 +1,5 @@
 
-<h1 align="center">🚚 Lugg Market Expansion Analysis</h1>
+<h1 align="center"> Lugg Market Expansion Analysis</h1>
 
 <p align="center">
   <img src="images/lugg-image.jpeg" alt="Lugg Moving Truck" width="500"/>
