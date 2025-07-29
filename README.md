@@ -126,7 +126,8 @@ lugg-market-expansion-analysis/
 ├── styles.css # Styling and animations
 ├── Lugg_Market_Expansion_Analysis.ipynb # Market analysis notebook
 ├── images/
-│ └── lugg-image.jpeg # Project image for README
+│ ├── lugg-image.jpeg # Project image for README 
+│ ├── lugg-logo.jpeg # Project image for README 
 ├── data/
 │ ├── census_metro_data.csv
 │ ├── lugg_strategic_market_analysis.csv
