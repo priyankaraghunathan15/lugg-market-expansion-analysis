@@ -19,6 +19,7 @@
 
 A strategic market expansion analysis designed to help **Lugg** prioritize high-potential metropolitan areas across the U.S. using data-driven insights. The project integrates competitive analysis, demographic profiling, and a multi-factor scoring algorithm to optimize expansion decisions.
 
+![Lugg Market Expansion Dashboard](images/dashboard-preview.png)
 🎥 **[Watch Demo Video (1 min)](https://drive.google.com/file/d/1vf7u3VIbbswkIVTHFkTCqZjW8F8B0xRj/view?usp=sharing)**
 
 ---
