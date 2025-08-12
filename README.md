@@ -15,7 +15,7 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
 A strategic market expansion analysis designed to help **Lugg** prioritize high-potential metropolitan areas across the U.S. using data-driven insights. The project integrates competitive analysis, demographic profiling, and a multi-factor scoring algorithm to optimize expansion decisions.
 
@@ -23,25 +23,25 @@ A strategic market expansion analysis designed to help **Lugg** prioritize high-
 
 ---
 
-## 🎯 Key Outcomes
+## Key Outcomes
 
-- ✅ Identified **164** untapped metro areas with zero competition
-- 📈 Estimated **$1.48M** annual revenue potential from top 3 targets
-- 🧭 Achieved **97.5%** location matching with Census MSA definitions
-- 🛠 Benchmarked against competitors (GoShare, TaskRabbit, Dolly)
+- Identified **164** untapped metro areas with zero competition
+- Estimated **$1.48M** annual revenue potential from top 3 targets
+- Achieved **97.5%** location matching with Census MSA definitions
+- Benchmarked against competitors (GoShare, TaskRabbit, Dolly)
 
 ---
 
-## 🔍 Technical Approach
+## Technical Approach
 
-### 🔧 Data Engineering
+### Data Engineering
 
 - Aggregated competitor data from 892 cities across 4 platforms
 - Standardized and mapped to 321 U.S. Metropolitan Statistical Areas
 - Enriched with Census Bureau demographic data (population, income)
 - Achieved >97% match accuracy using CBSA & OMB MSA codes
 
-### 📊 Analytical Framework
+### Analytical Framework
 
 #### Expansion Scoring Logic
 
@@ -64,15 +64,15 @@ Expansion Score = (Market Attractiveness × 0.6) +
 
 ---
 
-## 📈 Dashboard Highlights
+## Dashboard Highlights
 
-- 📍 **Overview**: KPI cards, market presence maps, population trends
-- 🧠 **Competitive Intelligence**: Market share analysis, heatmap matrix
-- 🚀 **Expansion Priorities**: Top cities ranked by score & revenue potential
+- **Overview**: KPI cards, market presence maps, population trends
+- **Competitive Intelligence**: Market share analysis, heatmap matrix
+- **Expansion Priorities**: Top cities ranked by score & revenue potential
 
 ---
 
-## 🌍 Top 5 Market Opportunities
+## Top 5 Market Opportunities
 
 | Metro Area             | Population | Median Income | Score | Est. Revenue |
 |------------------------|------------|---------------|-------|---------------|
@@ -84,7 +84,7 @@ Expansion Score = (Market Attractiveness × 0.6) +
 
 ---
 
-## 🛠 Technical Stack
+## Technical Stack
 
 - **Languages**: Python, HTML, CSS, JavaScript
 - **Libraries**: Pandas, NumPy
@@ -94,7 +94,7 @@ Expansion Score = (Market Attractiveness × 0.6) +
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### Requirements
 
@@ -135,7 +135,7 @@ lugg-market-expansion-analysis/
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - Real-time competitor tracking with APIs
 - Predictive modeling for market demand
